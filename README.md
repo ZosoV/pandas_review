@@ -12,9 +12,9 @@ job interview.
 | Data Manipulation: Inserting and Deleting |      |      |
 | Data Manipulation: Multi-index |      | Creation: `.from_arrays()`, `.from_tuples()`, `.from_product()` <br> Properties: `index.levels`, `index.names`  <br> DataFrame Multi-index: `.reindex()`, `.reset_index()`, `.set_index()`, `.align()` <br> Indexing and Slicing: `.loc[<tuple of lists>]`, `.loc[<list of tuple>]`,`slice()`, `df.loc(axis = 0)[]`, `.xs()` <br> Multi-index functions: `swaplevel()`, `reorder_levels()`, `index.set_names()`, `sort_index()` |
 | Data Manipulation: Sorting, Merging |      | Concatenation: `concat()` (multiple parameters) <br> Merging: `merge()`, `join()` (multiple parameters) <br> Comparing: `compare()`   |
+| Aggregation and Grouping Operations |      |      |
 | Data Manipulation: Reshaping |      | `pivot()`, `stack()`, `unstack()`, `melt()`, `pivot_table()`     |
 | Data Cleaning: Handling Missing Data |      |      |
-| Aggregation and Grouping Operations |      |      |
 | Time Series Analysis (Windowing Operations) |      |      |
 | Data Manipulation: Arithmetic Operations (Optional) |      |      |
 | Performance Optimization (Optional) |      |      |
