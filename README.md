@@ -12,7 +12,7 @@ job interview.
 | Data Manipulation: Inserting and Deleting |      |      |
 | Data Manipulation: Multi-index |      | Creation: `.from_arrays()`, `.from_tuples()`, `.from_product()` <br> Properties: `index.levels`, `index.names`  <br> DataFrame Multi-index: `.reindex()`, `.reset_index()`, `.set_index()`, `.align()` <br> Indexing and Slicing: `.loc[<tuple of lists>]`, `.loc[<list of tuple>]`,`slice()`, `df.loc(axis = 0)[]`, `.xs()` <br> Multi-index functions: `swaplevel()`, `reorder_levels()`, `index.set_names()`, `sort_index()` |
 | Data Manipulation: Sorting, Merging |      | Concatenation: `concat()` (multiple parameters) <br> Merging: `merge()`, `join()` (multiple parameters) <br> Comparing: `compare()`   |
-| Aggregation and Grouping Operations |      |      |
+| Grouping Operations: Aggregation, Transformation and Filtering | <a href="006_group_by.ipynb"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" width="50" /> </a>     | `groupby()`, `aggregate()`, `transform()`, `filter()`, `apply()` (built-in and UDF functions)  |
 | Data Manipulation: Reshaping |      | `pivot()`, `stack()`, `unstack()`, `melt()`, `pivot_table()`     |
 | Data Cleaning: Handling Missing Data |      |      |
 | Time Series Analysis (Windowing Operations) |      |      |
