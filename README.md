@@ -14,8 +14,9 @@ job interview.
 | Data Manipulation: Sorting, Merging |      | Concatenation: `concat()` (multiple parameters) <br> Merging: `merge()`, `join()` (multiple parameters) <br> Comparing: `compare()`   |
 | Grouping Operations: Aggregation, Transformation and Filtering | <a href="006_group_by.ipynb"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" width="50" /> </a>     | Splitting: `groupby()` <br> Applying: `aggregate()`, `transform()`, `filter()`, `apply()` (can use built-in and UDF functions)  |
 | Data Manipulation: Reshaping | <a href="007_reshaping.ipynb"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" width="50" /> </a>     | `pivot()`, `pivot_table()`, `stack()`, `unstack()`, `melt()`  |
-| Data Cleaning: Handling Missing Data |      |      |
-| Time Series Analysis (Windowing Operations) |      |      |
+| Windowing Operations | <a href="008_windowing_operations.ipynb"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" width="50" /> </a>       | `.rolling()`, `.expanding()`, `.ewm()` <br> Properties: `min_periods`, `center`, `closed`, `.apply()`, `corr()`, `cov()`   |
+| Data Cleaning: Handling Missing Data (Optional) |      |      |
+| Time Series Analysis (Optional) |      |      |
 | Data Manipulation: Arithmetic Operations (Optional) |      |      |
 | Performance Optimization (Optional) |      |      |
 | Visualization (Optional) |      |      |
